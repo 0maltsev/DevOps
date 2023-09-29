@@ -7,8 +7,8 @@
   ],
   "nodes": [
     {
-      "payload": "repo.corernd.ru/v2/okd48/manifests@sha256:049435abdebe8ddf1dedbd86ed683d57c3cb805b03d77a0484a956826fa51015",
-      "version": "4.8.0-0.okd-2021-11-14-052418"
+      "payload": "repo.corernd.ru/v2/dap/manifests@sha256:049435abdebe8ddf1dedbd86ed683d57c3cb805b03d77a0484a956826fa51015",
+      "version": "4.8.0-0.okd-2023-09-29-052418"
     },
     {
       "payload": "quay.io/openshift-release-dev/ocp-release@sha256:d56d85d0f773db3046bad3858a89c2deaf53c14703d58e3e9966dbda1331856b",
