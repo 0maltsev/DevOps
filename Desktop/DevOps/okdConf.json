@@ -7,7 +7,7 @@
   ],
   "nodes": [
     {
-      "payload": "fedora.corernd.ru:8443/origin/okd@sha256:9d977baaf76c5adf95ab5e4f1c0cfc94d5206ca2e437c423bdd633db124a1fe3",
+      "payload": "repo.corernd.ru/v2/okd48/manifests@sha256:049435abdebe8ddf1dedbd86ed683d57c3cb805b03d77a0484a956826fa51015",
       "version": "4.8.0-0.okd-2021-11-14-052418"
     },
     {
