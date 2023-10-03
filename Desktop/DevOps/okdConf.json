@@ -7,7 +7,7 @@
   ],
   "nodes": [
     {
-      "payload": "repo.corernd.ru/v2/daplate/manifests@sha256:049435abdebe8ddf1dedbd86ed683d57c3cb805b03d77a0484a956826fa51015",
+      "payload": "repo.corernd.ru/daplate/manifests@sha256:049435abdebe8ddf1dedbd86ed683d57c3cb805b03d77a0484a956826fa51015",
       "version": "4.8.0-0.okd-2021-11-14-052418"
     },
     {
